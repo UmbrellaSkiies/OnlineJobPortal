@@ -7,6 +7,9 @@
 
 This is an online Job Portal Website running on a server
 
+# Demo Image
+# <img src="https://github.com/UmbrellaSkiies/OnlineJobPortal/Demo Image/demo.png" height="50px" width="405px"></h1>
+
 ## Contents
  * [Installation](#installation)
  * [Prerequisites](#prerequisites)
