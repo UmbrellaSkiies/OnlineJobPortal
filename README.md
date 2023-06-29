@@ -1,9 +1,9 @@
 # OnlineJobPortal
 
-![GitHub repo size](https://img.shields.io/github/repo-size/UmbrellaSkiies/web_Scraper)
-![GitHub stars](https://img.shields.io/github/stars/UmbrellaSkiies/web_Scraper?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/UmbrellaSkiies/OnlineJobPortal)
+![GitHub stars](https://img.shields.io/github/stars/UmbrellaSkiies/OnlineJobPortal?style=social)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/UmbrellaSkiies/OnlineJobPortal)
-![GitHub forks](https://img.shields.io/github/forks/UmbrellaSkiies/web_Scraper?style=social)
+![GitHub forks](https://img.shields.io/github/forks/UmbrellaSkiies/OnlineJobPortal?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/UmbrellaSkiies?label=Followers&logoColor=blue&style=flat)
 
 This is an online Job Portal Website running on a server
